@@ -1,13 +1,17 @@
 {
   "name": "jigsawpuzzlegame",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A class for creating a jigsaw puzzle",
   "keywords": [
     "jigsaw",
     "puzzle",
     "game"
   ],
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Raketten1963/jigsawpuzzlegame.git"
+  },
+  "license": "MIT",
   "author": "Dillon & Henrik Rasmussen",
   "type": "ES6",
   "main": "jigsaw-puzzle-game.js",
