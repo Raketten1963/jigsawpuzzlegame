@@ -1,0 +1,17 @@
+{
+  "name": "jigsawpuzzlegame",
+  "version": "1.0.1",
+  "description": "A class for creating a jigsaw puzzle",
+  "keywords": [
+    "jigsaw",
+    "puzzle",
+    "game"
+  ],
+  "license": "ISC",
+  "author": "Dillon & Henrik Rasmussen",
+  "type": "ES6",
+  "main": "jigsaw-puzzle-game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
